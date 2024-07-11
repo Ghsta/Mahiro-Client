@@ -1,0 +1,11 @@
+﻿  dllmain.cpp
+  HookLib.lib(HookLib.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+    正在创建库 C:\Users\Administrator\Desktop\Mahiro\Mahiro-loader\x64\Release\MahiroLoader.lib 和对象 C:\Users\Administrator\Desktop\Mahiro\Mahiro-loader\x64\Release\MahiroLoader.exp
+  正在生成代码
+  已完成代码的生成
+Zydis.lib(Decoder.obj) : warning LNK4099: 未找到 PDB“”(使用“Zydis.lib(Decoder.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+Zydis.lib(Register.obj) : warning LNK4099: 未找到 PDB“”(使用“Zydis.lib(Register.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+Zydis.lib(DecoderData.obj) : warning LNK4099: 未找到 PDB“”(使用“Zydis.lib(DecoderData.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+Zydis.lib(SharedData.obj) : warning LNK4099: 未找到 PDB“”(使用“Zydis.lib(SharedData.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+HookLib.lib(HookLib.obj) : warning LNK4099: 未找到 PDB“”(使用“HookLib.lib(HookLib.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  MahiroLoader.vcxproj -> C:\Users\Administrator\Desktop\Mahiro\Mahiro-loader\x64\Release\MahiroLoader.dll
