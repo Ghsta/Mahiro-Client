@@ -1,7 +1,0 @@
-﻿  dllmain.cpp
-C:\Users\Administrator\Desktop\Mahiro\Mahiro-loader\MahiroLoader\dllmain.cpp(111,1): error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
-  pch.cpp
-C:\Users\Administrator\Desktop\Mahiro\Mahiro-loader\MahiroLoader\pch.cpp(3,10): error C1083: 无法打开预编译头文件: “x64\Debug\MahiroLoader.pch”: No such file or directory
-  utils.cpp
-C:\Users\Administrator\Desktop\Mahiro\Mahiro-loader\MahiroLoader\utils.cpp(58,1): error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
-  正在生成代码...
